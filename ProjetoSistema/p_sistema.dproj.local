@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/03/31 09:36:59.000.654,=C:\Users\Positivo-PC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/31 09:39:38.000.182,=C:\Users\Positivo-PC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/31 09:44:34.000.544,=C:\Users\Positivo-PC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/31 09:55:10.000.621,=C:\Users\Positivo-PC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/31 10:48:30.000.210,=C:\Users\Positivo-PC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/01 10:29:40.609,=C:\Users\Positivo-PC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/01 10:31:05.197,C:\ProjetosDelphi\Aprenda a criar um sistema em delphi do início ao fim\ProjetoCurso\Forms\uform_main.pas=C:\Users\Positivo-PC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/01 10:31:05.198,C:\ProjetosDelphi\Aprenda a criar um sistema em delphi do início ao fim\ProjetoCurso\Forms\uform_main.dfm=C:\Users\Positivo-PC\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/04/01 10:32:00.366,C:\ProjetosDelphi\Aprenda a criar um sistema em delphi do início ao fim\ProjetoCurso\p_curso.dproj=C:\Users\Positivo-PC\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/04/01 11:00:56.638,=C:\ProjetosDelphi\Aprenda a criar um sistema em delphi do início ao fim\ProjetoCurso\Unit1.pas</Transaction>
+    <Transaction>2022/04/01 11:03:33.344,C:\ProjetosDelphi\Aprenda a criar um sistema em delphi do início ao fim\ProjetoCurso\Forms\UdmDados.pas=C:\ProjetosDelphi\Aprenda a criar um sistema em delphi do início ao fim\ProjetoCurso\Unit1.pas</Transaction>
+    <Transaction>2022/04/01 11:03:33.344,C:\ProjetosDelphi\Aprenda a criar um sistema em delphi do início ao fim\ProjetoCurso\Forms\UdmDados.dfm=C:\ProjetosDelphi\Aprenda a criar um sistema em delphi do início ao fim\ProjetoCurso\Unit1.dfm</Transaction>
+    <Transaction>2022/04/01 11:10:19.973,C:\ProjetosDelphi\Aprenda a criar um sistema em delphi do início ao fim\ProjetoCurso\p_sistema.dproj=C:\ProjetosDelphi\Aprenda a criar um sistema em delphi do início ao fim\ProjetoCurso\p_curso.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
