@@ -1,0 +1,45 @@
+unit uForm_configBanco;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls, Vcl.Imaging.pngimage,
+  Vcl.ExtCtrls;
+
+type
+  Tftm_configBanco = class(TForm)
+    Image1: TImage;
+    Label1: TLabel;
+    edtLocal: TEdit;
+    Button1: TButton;
+    openPastas: TOpenDialog;
+  private
+    procedure Configura;
+  public
+    { Public declarations }
+  end;
+
+var
+  ftm_configBanco: Tftm_configBanco;
+
+implementation
+
+{$R *.dfm}
+
+{ Tftm_configBanco }
+
+procedure Tftm_configBanco.Configura;
+var
+  vFileName: string;
+begin
+if openPastas.Execute then
+begin
+edtLocal.Text := openPastas.FileName;
+vFileName := ExtractFilePath(application.ExeName+'config.ini')
+end;
+
+
+end;
+
+end.

@@ -1,0 +1,24 @@
+unit uForm_configBanco;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs;
+
+type
+  Tftm_configBanco = class(TForm)
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  ftm_configBanco: Tftm_configBanco;
+
+implementation
+
+{$R *.dfm}
+
+end.

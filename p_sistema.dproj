@@ -83,8 +83,8 @@
         <DCC_RemoteDebug>false</DCC_RemoteDebug>
         <AppEnableRuntimeThemes>true</AppEnableRuntimeThemes>
         <AppDPIAwarenessMode>PerMonitorV2</AppDPIAwarenessMode>
-        <DCC_ExeOutput>C:\ProjetosDelphi\Aprenda a criar um sistema em delphi do início ao fim\ProjetoCurso\Exe\</DCC_ExeOutput>
-        <DCC_DcuOutput>C:\ProjetosDelphi\Aprenda a criar um sistema em delphi do início ao fim\ProjetoCurso\Dcu\</DCC_DcuOutput>
+        <DCC_ExeOutput>D:\MINHA VIDA\ProjetosDelphi\DelphiUdemy\ProjetoSistema\Exe\</DCC_ExeOutput>
+        <DCC_DcuOutput>D:\MINHA VIDA\ProjetosDelphi\DelphiUdemy\ProjetoSistema\Dcu\</DCC_DcuOutput>
         <VerInfo_IncludeVerInfo>true</VerInfo_IncludeVerInfo>
         <VerInfo_Locale>1033</VerInfo_Locale>
         <Icon_MainIcon>p_sistema_Icon2.ico</Icon_MainIcon>
@@ -113,6 +113,10 @@
             <DesignClass>TDataModule</DesignClass>
         </DCCReference>
         <DCCReference Include="Classes\uBiblioteca.pas"/>
+        <DCCReference Include="Forms\uForm_configBanco.pas">
+            <Form>frm_configBanco</Form>
+            <FormType>dfm</FormType>
+        </DCCReference>
         <BuildConfiguration Include="Release">
             <Key>Cfg_2</Key>
             <CfgParent>Base</CfgParent>
