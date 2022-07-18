@@ -26,7 +26,7 @@ object f_principal: Tf_principal
       'Server=localhost'
       'Port=3050'
       'DriverID=FB')
-    Left = 200
-    Top = 72
+    Left = 8
+    Top = 8
   end
 end

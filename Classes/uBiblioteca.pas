@@ -23,7 +23,7 @@ var vArquivo : TIniFile;
 begin
   vArquivo := TIniFile.Create(pLocal);
 
-  Result := vArquivo.ReadString(pSessao,pSubSessao,'');
+  GetValorIni := vArquivo.ReadString(pSessao,pSubSessao,'');
 
   vArquivo.Free;
 

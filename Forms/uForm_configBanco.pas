@@ -5,7 +5,7 @@ interface
 uses
   Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
   Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls, Vcl.Imaging.pngimage,
-  Vcl.ExtCtrls, uBiblioteca;
+  Vcl.ExtCtrls, uBiblioteca, uform_main;
 
 type
   Tfrm_configBanco = class(TForm)
@@ -44,7 +44,11 @@ begin
 if openPastas.Execute then
 begin
 edtLocal.Text := openPastas.FileName;
-vFileName := ('C:\Users\POSITI~1\AppData\Local\Temp\'+'config.ini');
+
+vFileName := ('C:\ProgramData\Sistema Delphi\'+'config.ini');
+
+//vFileName := ('C:\Users\Positivo\AppData\Local\Temp\hidelphi\'+'config.ini');
+
 //vFileName := ExtractFilePath(application.ExeName+'config.ini');
 SetValorIni(vFileName,'CONFIGURACAO','LOCAL_DB',edtLocal.Text);
 ShowMessage('Tudo ok!');

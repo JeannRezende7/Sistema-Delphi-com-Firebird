@@ -83,8 +83,8 @@
         <DCC_RemoteDebug>false</DCC_RemoteDebug>
         <AppEnableRuntimeThemes>true</AppEnableRuntimeThemes>
         <AppDPIAwarenessMode>PerMonitorV2</AppDPIAwarenessMode>
-        <DCC_ExeOutput>D:\MINHA VIDA\ProjetosDelphi\DelphiUdemy\ProjetoSistema\Exe\</DCC_ExeOutput>
-        <DCC_DcuOutput>D:\MINHA VIDA\ProjetosDelphi\DelphiUdemy\ProjetoSistema\Dcu\</DCC_DcuOutput>
+        <DCC_ExeOutput>D:\MINHA VIDA\ProjetosDelphi\Udemy\Sistema-Delphi-com-Firebird-main\Exe</DCC_ExeOutput>
+        <DCC_DcuOutput>D:\MINHA VIDA\ProjetosDelphi\Udemy\Sistema-Delphi-com-Firebird-main\Dcu</DCC_DcuOutput>
         <VerInfo_IncludeVerInfo>true</VerInfo_IncludeVerInfo>
         <VerInfo_Locale>1033</VerInfo_Locale>
         <Icon_MainIcon>p_sistema_Icon2.ico</Icon_MainIcon>
